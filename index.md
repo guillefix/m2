@@ -4,7 +4,7 @@ layout: default
 
 Metalearning in the Metaverse ([M]2) is a social event in virtual reality. There will be a cafe, where people can drink and chat in a relaxed environment, as well as a presentation area where people can discuss their work (feel free to tell us a priori if you want to present something).
 
-We will use NeosVR which can be downloaded free on Steam [https://store.steampowered.com/app/740250/Neos_VR/](https://store.steampowered.com/app/740250/Neos_VR/). It also has a desktop client, in case you don't have VR.
+We will use NeosVR which can be downloaded free on Steam. It also has a desktop client, in case you don't have VR.
 
 ### How to join
 
