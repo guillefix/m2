@@ -9,6 +9,6 @@ We will use NeosVR which can be downloaded free on Steam. It also has a desktop 
 ### How to join
 
 1. Download [NeosVR on Steam](https://store.steampowered.com/app/740250/Neos_VR/).
-2. Join the session (called `ICML2020 - M2`) by clicking this link: `link comming soon` (the session will be public, so you can also find it in the Neos Session browser).
+2. Join the session (called `ICML2020 - M2`) by clicking this link: http://cloudx.azurewebsites.net/open/session/a3a1ba4b-c471-45f8-9e9d-fcc4f0f123c7 (the session will be public, so you can also find it in the Neos Session browser).
 
 If you have any question, please contact guillefix@gmail.com or ding.shin.huang@oxai.org. Feel free to join us on [Discord](https://discord.gg/CFsm4Qx).
